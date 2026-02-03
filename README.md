@@ -8,9 +8,11 @@
 An augmented reality arcade-style shooter game utilizing Meta's MicroGestures technology for intuitive hand-based controls on Meta Quest 3.
 
 ![Unity Editor View](screenshots/game.png)
+
 *Game view from Unity editor*
 
 https://github.com/user-attachments/assets/838b3d6b-822a-4b1c-91fa-893b7e3feee0
+
 *Player interacting with the game using MicroGestures at the university showcase*
 
 ## 📖 About
